@@ -1,1 +1,1 @@
-# E-commerce-Data-Insights
+Executed in-depth analysis on 7 interconnected tables of an e-commerce platform using SQL and Python, creating insightful visualizations (bar graphs, pie charts) to inform business decisions, and utilized SQL queries, relational operations, and exploratory data analysis (EDA) to uncover key trends and correlations.
